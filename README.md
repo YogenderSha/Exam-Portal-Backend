@@ -2,7 +2,7 @@
 
 SpringBoot API for fullstack project (Angular+Springboot+Sql). 
 
-Refer Frontend for this project here - https://github.com/AnkurDesai11/ExamPortal-Frontend
+Refer Frontend for this project here - (https://github.com/YogenderSha/exam-portal-frontend)
 
 Major dependancies used - Spring Data JPA, Spring Security
 
