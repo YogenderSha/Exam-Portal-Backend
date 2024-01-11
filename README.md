@@ -17,6 +17,13 @@ Models (each model has it's table in the MySQL database) defined are as follows
 * Category
 * Quiz
 * Question
+* 
+<img src="https://github.com/YogenderSha/Exam-Portal-Backend/blob/main/pro-1.png" 
+     width="700" 
+     height="300" />
+<img src="https://github.com/YogenderSha/Exam-Portal-Backend/blob/main/pro-2.png" 
+     width="700" 
+     height="300" />
 
 Following relationships are established in the database
 * Many-to-one relationship between users and roles, each user can have only one role (either user or admin), many users can be assigned the same role. This is achieved using intermediate user role model which maps keys user_i and role_id from user and role tables respectively. 
